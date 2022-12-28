@@ -1,4 +1,5 @@
 ## RFID Scanner Based MP3 Player with LCD Display
+[Image](player_image.jpeg)
 ## Team members
 Hannah Huddleston\
 Moe Khalil

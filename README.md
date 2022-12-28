@@ -66,4 +66,4 @@ We are both incredibly proud of the final product and have been showing it off a
 Overall, we feel great about our final product and the process we went through to get to it.  
 
 ## Photos
-[Video of Player in Action](https://github.com/cs107e/Mokhalil01-hannhudd-project/blob/master/player_video.mp4)
+[Video of Player in Action](player_video.mp4)
